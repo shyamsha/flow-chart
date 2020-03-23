@@ -35,4 +35,5 @@ Stack
 
 Run
 
+- `npm install` - Install all dependencies in package.json
 - `npm run start` - Parcel will start a live reload server at port 1234 and take care of build & bundling

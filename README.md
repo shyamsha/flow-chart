@@ -8,7 +8,8 @@
 
 #### Build
 
-Build a multi select drop down component using using a combination of div,span,ul & li.
+- Build a multi select drop down component using using a combination of div,span,ul & li.
+- Refrain from using select and option tag since the idea is to mimic a dropdown
 
 Presentation
 
@@ -16,11 +17,11 @@ Presentation
 - Display a list of items from which the user can select one or more values
 - Highlight the selected items
 - Build essential plumbing to broadcast the selected values to the parent component under which this is being used
+- Show the list of items selected and a way to deselect those
 
 Brownie Points
 
 - Make the drop down work in single or multi-select mode by passing down a flag
-- Show the list of items selected in the form of removable chips
 
 Implementation
 
